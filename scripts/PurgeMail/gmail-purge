@@ -31,7 +31,7 @@
 //---- CONFIGURATION BEGIN -------------------------
 
 // comma separated labels to be purged
-var GMAIL_LABELS = "listas/APIF,listas/CloneWars,listas/Escepticos,listas/IA,listas/ITtoolbox,listas/java,listas/openerp,listas/palm,listas/robot";
+var GMAIL_LABELS = "label1, label2";
 
 // Purge messages automatically after how many days?
 var PURGE_AFTER = (365*2).toString();
